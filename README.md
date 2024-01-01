@@ -16,6 +16,9 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <br>
 
+  <img src="https://img.shields.io/badge/Github Action-2088FF?style=flat-square&logo=Github Action&logoColor=black"/>
+  <br>
+
 </div>
 
 
