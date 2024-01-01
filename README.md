@@ -16,8 +16,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <br>
 
-
-  <img src="https://img.shields.io/badge/Github Action-2088FF?style=flat-square&logo=Github Action&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github Action-2088FF?style=flat-square&logo=Github Action&logoColor=white"/>
   <br>
 
 </div>
