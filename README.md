@@ -1,12 +1,13 @@
 
 <div align=center> 
-<!--   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+
+  <!--   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>  
   <br>
   -->
   
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github Action-2088FF?style=flat-square&logo=Github Action&logoColor=white"/>
 
@@ -16,14 +17,16 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <br> --!>
 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
   <br>
 
 </div>
 
-<div align=center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dote10&hide=html&count_private=true"/>
+
+<div align=center> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dote10&hide=html&count_private=true&layout=compact"/>
      <!--<img src="https://github-readme-stats.vercel.app/api?username=Dote10&show_icons=true"/>--!>
 </div>
 
