@@ -1,22 +1,20 @@
 
-<div align=left> 
+<div align=center> 
 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  <br>
   
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github Action-2088FF?style=flat-square&logo=Github Action&logoColor=white"/>
 
   <br>
 
-
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-  <br>
-
 </div>
 
 
-<div align=left> 
+<div align=center> 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dote10&hide=html&count_private=true&layout=compact"/>
      <!--<img src="https://github-readme-stats.vercel.app/api?username=Dote10&show_icons=true"/>--!>
 </div>
