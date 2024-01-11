@@ -15,7 +15,7 @@
 
 
 <div align=center> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dote10&hide=html&count_private=true&layout=compact"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dote10&hide=html,css&count_private=true&layout=compact"/>
      <!--<img src="https://github-readme-stats.vercel.app/api?username=Dote10&show_icons=true"/>--!>
 </div>
 
