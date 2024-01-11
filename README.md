@@ -5,7 +5,8 @@
   <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
   <br>
-  
+
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github Action-2088FF?style=flat-square&logo=Github Action&logoColor=white"/>
 
