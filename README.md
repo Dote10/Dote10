@@ -14,6 +14,11 @@
 
 </div>
 
+<div align=center>
+  <a href="https://dodote10.tistory.com/">
+ <img src="https://user-images.githubusercontent.com/65346989/127509417-c2f672e7-70a8-4d44-b43f-70364e022a81.png"/>
+  </a>
+</div>
 
 <div align=center> 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dote10&hide=html,css&count_private=true&layout=compact"/>
