@@ -3,7 +3,7 @@
 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/prisma-2D3748?style=flat-square&logo=prismat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prismat&logoColor=black"/>
   <br>
 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
